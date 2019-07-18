@@ -1,1 +1,1 @@
-This is home controller
+This is home
